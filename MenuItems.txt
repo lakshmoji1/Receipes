@@ -6,8 +6,12 @@ Biscuit
 Milk
 Curd
 
+
 /* Could have the mentioned items */
 Pizza
 Burger
 
 /* the items can be added in the new version */
+
+Added all required items in the main branch
+
